@@ -93,4 +93,3 @@ MIT
 ## Contributors
 
 - [cyrinux](https://github.com/cyrinux)
-- [maxbaz](https://github.com/maxbaz)
